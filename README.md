@@ -3,4 +3,4 @@
 ---
 ### **Result Table**
 ---
-![image](Result.jpg)
+![image](https://github.com/eakanshagarwal/Clustering-PyCaret-/blob/main/Result.JPG)
